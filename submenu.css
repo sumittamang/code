@@ -1,9 +1,8 @@
-     .s ul {
+     .s sa {
             display: none !important;
            
         }
 
-        .s li:hover > ul {
-            display: block !important;
-             margin-right: 20px !important;                
+        .s ss:hover > sa {
+            display: block !important;             
         }
