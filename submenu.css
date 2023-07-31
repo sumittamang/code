@@ -1,0 +1,9 @@
+     .s ul {
+            display: none !important;
+           
+        }
+
+        .s li:hover > ul {
+            display: block !important;
+             margin-right: 20px !important;                
+        }
